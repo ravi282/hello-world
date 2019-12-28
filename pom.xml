@@ -42,12 +42,12 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://3.227.9.205:8081/nexus/content/repositories/deployment/</url>
+        <url>http://3.227.9.205:8081/nexus/content/repositories/IN/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://3.227.9.205:8081/nexus/content/repositories/deployment1/</url>
+        <url>http://3.227.9.205:8081/nexus/content/repositories/INSNAP/</url>
     </snapshotRepository>
 </distributionManagement>
 
